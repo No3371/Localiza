@@ -1,0 +1,22 @@
+{
+    "RecycleBinMax": 30,
+    "UI_Scale": "Normal",
+    "SupportedType": [
+        {
+            "Type": "System.String",
+            "DrawerLayout": "Horizontal",
+            "DrawerType": "LocalizaV2.ItemDrawer_String, Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        {
+            "Type": "UnityEngine.AudioClip, UnityEngine",
+            "DrawerLayout": "Horizontal",
+            "DrawerType": "LocalizaV2.ItemDrawer_AudioClip, Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        },
+        {
+            "Type": "UnityEngine.Sprite, UnityEngine",
+            "DrawerLayout": "Grid",
+            "DrawerType": "LocalizaV2.ItemDrawer_Sprite, Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+        }      
+    ],
+    "SavePath": "Assets/HomemadeAssets/LocalizaV2/Resources/Localizations/"
+}
