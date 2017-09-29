@@ -28,5 +28,5 @@ Localiza is a Unity plugin to localize your game/app.
 - The Localiza window reads what you want to localizae from config file and get the types via reflection.
 - You have to provide Drawer (inherits **ItemDrawerBase**) for any additional types (Assets) you want to localize and add it to config.
 - The config file is located at LocalizaV2/Editor.
-- By default, Localiza provide String, AudioClip, Sprite Drawers.
+- By default, Localiza provide Drawer for String, AudioClip, Sprite Drawers.
 
